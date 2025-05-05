@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/ntropy-network-ntropy-mcp-badge.png)](https://mseep.ai/app/ntropy-network-ntropy-mcp)
+
 # Ntropy MCP server
 
 MCP server for enriching banking data using the Ntropy API. This allows LLM agents that work with financial data to easily call any of the Ntropy API endpoints.
